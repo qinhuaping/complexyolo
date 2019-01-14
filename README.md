@@ -27,6 +27,6 @@ python3 main.py
 
 # Result
 
-![](https://github.com/qinhuaping/complexyolo/master/results/1.png)
-![](https://github.com/qinhuaping/complexyolo/master/results/2.png)
+![](https://github.com/qinhuaping/complexyolo/master/tree/results/1.png)
+![](https://github.com/qinhuaping/complexyolo/master/tree/results/2.png)
 
